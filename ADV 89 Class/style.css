@@ -1,0 +1,24 @@
+body{
+	background-color: lightblue;
+	text-align: center;
+}
+.heading{
+	font-size: 50px;
+}
+.readyBtn{
+	border: none;
+	border-radius: 12.5px;
+	font-size: 25px;
+	margin: 25px;
+	background-color:crimson;
+}
+inVisCont{
+	visibility: hidden;
+}
+#recBtn{
+	border: none;
+	border-radius: 12.5px;
+	font-size: 25px;
+	margin: 25px;
+	background-color:darkolivegreen;
+}
